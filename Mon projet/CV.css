@@ -1,0 +1,13 @@
+img {
+  width: 150px;
+  display: block;
+  margin-left: auto;
+}
+
+p1 {
+  color: red;
+}
+
+img {
+  margin-right: 50px;
+}
